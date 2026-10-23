@@ -4,6 +4,12 @@ Arya: Today, we started working on this project! We decided to make a smart WS28
 
 Lapse: https://lapse.hackclub.com/timelapse/cUiMAB_ottTp
 
+Funmi: Day 1 of starting a new project. this might be our last thirdpspace proj so i wanted it to be ai-b2b-saas lol! but we're making a (sophisticated) Aura lamp. (teeammate said it doesn't have to be sophisticated cuz it's just a lamp, this is why you shouldn't listen to boys when they speak!
+
+Anyways, we sourced and added components based on what we were planning out! We added an esp32 s3 (ESP32-S3-WROOM-1-N16R2), and then added the same bme280 temp humidity and pressure sensor we used in AtmosCore, a USB-C port, a good LDO, a radar presence sensor, and a capacitative touch sensor (the sliding one) - this one had 8 touch poitns! As we were still plannign  out and discussing, we decided to add a touch tft display! and so we removed the sliding sesnor!
+
+Lapse: https://lapse.hackclub.com/timelapse/J1cavKiu7AhE
+
 <img width="994" height="668" alt="image" src="https://github.com/user-attachments/assets/28984003-a7ee-4151-8cec-187f526fe6b9" />
 
 # 10/20/2026 Finished component placement + wired MAX98357A!! (Arya: 1hr)
@@ -20,6 +26,10 @@ Arya: Today, I did not have too much time to work, but I managed to get some fix
 
 Lapse: https://lapse.hackclub.com/timelapse/ADDqVgfokMFf
 
+Funmi: I wiredd up the usb-c port after searching it to confirm the right connections from our last wiring! I then began wiring the tft touch display! i had to research this one to get the pinout right cuz i couldn't find legible 14 pinout lcd anywhere! I also understood that both the tft and it's touch used the same spi bus! (in short more of how spi works)
+
+Lapse: https://lapse.hackclub.com/timelapse/GiAZ7oVy02oq
+
 <img width="340" height="411" alt="image" src="https://github.com/user-attachments/assets/928a490f-7016-4813-872c-2b4f8b4a2eff" />
 
 # 10/22/2026 Finished wiring MAX98357A + wired LDO!! (Arya: 30 mins)
@@ -29,3 +39,7 @@ Arya: Today, I read through the datasheet some more and completed the wiring for
 Lapse: https://lapse.hackclub.com/timelapse/M89l0f_t1XQr
 
 <img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-10-22" src="https://github.com/user-attachments/assets/0eb28720-9272-4185-bada-c32523e4d8e9" />
+
+Funmi: getting to the point where i'm able to read a micro's pinout and know what pins to use for what primarily w/o needing Google searches and AI. Today, I finsihed up the wiring of the tft display and touch to the esp32! (each of the both w different CS pins and sharing the same SPI buses), same for the bme280 which I started next and finished wiring to the esp32. and then I wired up the radar asw! I searched up connections to make sure everythign was right.. still used some Google and AI, but I got a bettter understanding of SPI and UART comm protocols and other stuff!
+
+Lapse: https://lapse.hackclub.com/timelapse/WWVpwd83nshN
