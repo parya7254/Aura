@@ -21,3 +21,11 @@ Arya: Today, I did not have too much time to work, but I managed to get some fix
 Lapse: https://lapse.hackclub.com/timelapse/ADDqVgfokMFf
 
 <img width="340" height="411" alt="image" src="https://github.com/user-attachments/assets/928a490f-7016-4813-872c-2b4f8b4a2eff" />
+
+# 10/22/2026 Finished wiring MAX98357A + wired LDO!! (Arya: 30 mins)
+
+Arya: Today, I read through the datasheet some more and completed the wiring for the amplifier! I did use some AI to help me and I went back and confirmed it with the datasheet! I found a proper table that gave example values for pullups for the voltages listed, and I put the proper resistor needed in! I conformed all of the other wiring and it was correct! I also started and finished the wiring for the LDO. The LDO was not hard to wire, but I did get a little stuck on the tab pin on the footprint, which the datasheet did not mention at all for wiring.
+
+Lapse: https://lapse.hackclub.com/timelapse/M89l0f_t1XQr
+
+<img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-10-22" src="https://github.com/user-attachments/assets/0eb28720-9272-4185-bada-c32523e4d8e9" />
