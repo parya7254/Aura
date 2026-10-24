@@ -51,3 +51,11 @@ Lapse: https://lapse.hackclub.com/timelapse/WWVpwd83nshN
 ![alt text](images/radar-wiring.png)
 
 ![alt text](images/tft-wiring.png)
+
+# 10/23/2026 Started and Finished the PCB!! (Arya: 1hr 30mins)
+
+Arya: Today, we finished up with the schematic and started and finished the PCB! I started off with placing the major parts on the PCB to the intended layout, and we then placed the minor things like the resistors and the capacitors. We then started wiring! I did notice some problems from the schematic while I was wiring so I fixed them! Wiring did not take that long, and we did wire everything other than the GND first because we were going to do a ground fill. After we finished the wiring and did the ground fill, there were some areas left that were not connected to ground, so we connected them to each other! And now, we are officially done with the PCB for this project! We plan on starting the CAD and the code for the project next time we work on this!
+
+Lapse: https://lapse.hackclub.com/timelapse/VUYm8VxBadQN
+
+<img width="2160" height="1331" alt="PCB_PCB1_2026-10-23" src="https://github.com/user-attachments/assets/f46064a5-e62d-447f-a8c0-3b27db2ebb7d" />
