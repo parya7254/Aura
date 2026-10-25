@@ -89,3 +89,13 @@ Lapse: https://lapse.hackclub.com/timelapse/gS1xs-q3iY3w
 
 ![alt text](images/lamp-pcb.png)
 
+# 10/24/2026 Fixed PCB and started CAD!! (Arya: 1hr 30min)
+
+Arya: Today, I found a fatal mistake in my PCB with the ESP32 and managed to fix it! The problem on the PCB was that there was some PCB under the antenna for the ESP32 and there was also a ground fill under it and I forgot to remove the PCB under the antenna the previous time that I worked on this. The purpose for this was to not have the ground signals interfere with the operation of the antenna since they are very sensitive to noise. I then started the CAD for the lamp as well today! I planned some part of it out in my brain and then started designing from that. I first started with the base and added holes for the buttons on the PCB and also the USB-C port. I did an assembly and used that to confirm the proper location of the hole. I then also added some screw holes of 2mm to secure this to other parts of the enclosure of the lamp. I manage to get started with the stem of the lamp, but it needs plenty of more work.
+
+Lapse: https://lapse.hackclub.com/timelapse/c9CRBWzQUqVO
+
+<img width="1002" height="626" alt="image" src="https://github.com/user-attachments/assets/f8911ea3-9ac1-4898-92f3-8107cf8919bd" />
+<img width="1041" height="625" alt="image" src="https://github.com/user-attachments/assets/ed36ef8d-6c61-487e-9381-bf860c815d0a" />
+<img width="979" height="509" alt="image" src="https://github.com/user-attachments/assets/07936bb9-5f44-4226-a796-d8712c659ea5" />
+<img width="681" height="578" alt="image" src="https://github.com/user-attachments/assets/e6f11b0e-6960-4782-a3d9-e4f76742cd16" />
