@@ -20,6 +20,6 @@
 #define TFT_DC 5
 #define T_IRQ 7
 
-#define BCLK 15
-#define LRCLK 16
-#define DIN 17
+#define I2S_BCLK 15
+#define I2S_LRCLK 16
+#define I2S_DIN 17
