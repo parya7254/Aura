@@ -59,3 +59,33 @@ Arya: Today, we finished up with the schematic and started and finished the PCB!
 Lapse: https://lapse.hackclub.com/timelapse/VUYm8VxBadQN
 
 <img width="2160" height="1331" alt="PCB_PCB1_2026-10-23" src="https://github.com/user-attachments/assets/f46064a5-e62d-447f-a8c0-3b27db2ebb7d" />
+
+
+Funmi: I wired the enable and boot pins on the esp32 and found out my teammate's amplifier wiring wasn't complete so I finished that up for him by connecting the pins to the esp32! I also fixed some other wiring , and did a complete check on the project to be sure nothing was missing or done wrong. At first thought the LDO wiring my teammate did was a short just cuz of how it looked, I was wrong. I used google searches and AI to do a verification foe some other component wiring. 
+
+Lastly, I added header pins for the addressable LEDs and wired that up as well! When I was done, I ran DRC and updated to the PCB!
+
+Timelapse: https://lapse.hackclub.com/timelapse/1Ye09Ot9PNqG
+
+![alt text](images/led-decoup-and-usbdecoup.png)
+
+![alt text](images/speaker.png)
+
+![alt text](images/drc.png)
+
+![alt text](images/lamp-schematic.png)
+
+## 24th October
+
+Funmi: Today, we finished the pcb! I added decoupling capacitors and updated the pcb! Then we both placed the components, with each resistor and capacitor where they belonged! When we were done, we started wiring from the esp32 and decoups to the ldo, amplifier, and usb-c until we were done! then we added ground fills on both the fornt and back layers! We ran drc and fixed all our issues! I also changed some non-uniform footprint I had noticed (like we had a 0805 resistor paired w a 0603)
+
+We're getting this done in a week because we only have one pcb (Frist project that's a one part lol). I'm getting started on code rn, and my teammate on CAD as usual!
+
+Lapse: https://lapse.hackclub.com/timelapse/gS1xs-q3iY3w
+
+![alt text](images/3d-pcb.png)
+
+![alt text](images/lamp-schematic.png)
+
+![alt text](images/lamp-pcb.png)
+
