@@ -25,7 +25,6 @@ void initialiseTFT(){
     digitalWrite(TFT_LED, HIGH);
 
     tft.setTextColor(TFT_WHITE, TFT_BLACK);
-    tft.setTextSize(2);
     tft.setCursor(0, 0)
     tft.setTextSize(2);
 }
@@ -34,4 +33,18 @@ void updateSensors(){
     bme280_data.temperature = bme.readTemperature();
     bme280_data.humidity = bme.readHumidity();
     bme280_data.pressure = bme.readPressure();
+}
+
+
+void isPersonPresent(){
+    return digitalRead(RADAR_OUT) == HIGH;
+}
+
+void updateTFT(){
+    tft.println("AURA LAMP TM!!");
+    
+    tft.println("Temperature: %.1f");
+    tft.println("Pressure: %.1f");
+    tft.println("Humidity: %.1f%%");
+
 }
