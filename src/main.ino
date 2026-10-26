@@ -17,6 +17,8 @@ void setup(){
 
 
 void loop(){
+    if (screenTouched(touchX, touchY))
+        Serial.printf("")
     if (isPersonPresent()){
 
         digitalWrite(TFT_LED, HIGH);
