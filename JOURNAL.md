@@ -99,3 +99,11 @@ Lapse: https://lapse.hackclub.com/timelapse/c9CRBWzQUqVO
 <img width="1041" height="625" alt="image" src="https://github.com/user-attachments/assets/ed36ef8d-6c61-487e-9381-bf860c815d0a" />
 <img width="979" height="509" alt="image" src="https://github.com/user-attachments/assets/07936bb9-5f44-4226-a796-d8712c659ea5" />
 <img width="681" height="578" alt="image" src="https://github.com/user-attachments/assets/e6f11b0e-6960-4782-a3d9-e4f76742cd16" />
+
+# 10/25/2026 Finished CAD and project!! (Arya: 5hrs)
+
+Arya: Today, I locked in and grinded on the CAD and finally managed to finish it! It took a lot of time, and I had to work on this for 5 hours because we planned to finish the project this week! I started off with continuing the cad for the stem and then moved on to the placement of parts on it. I assembled it with the display, and I used that to help me get precise screw holes so that the display could be screwed into place! I then moved on to the speaker, which I forgot about, and made a speaker grille for it on the CAD for the stem! I then moved on to the last part, the top of the lamp. I had to make it upside down since the thing kept making two separate parts, but I also managed to finish that! I planned to put the radar on the top module as well and also added some holes to the things so that the LED strip and the radar can be wired! I also made the stem taller so that there would be more space for the wires for the display!
+
+Lapse: https://lapse.hackclub.com/timelapse/p0QoFwjagm05
+
+<img width="704" height="714" alt="image" src="https://github.com/user-attachments/assets/18637812-697e-4ad4-bc59-8728b5416cf8" />
