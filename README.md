@@ -20,7 +20,7 @@ Aura is a smart lamp powered by a ESP32 that wakes up automatically when a perso
 # BOM
 
 | Qty | Description | Designators | Manufacturer | MPN | Supplier Link | Unit Price | Total Price |
-|-----:|-------------|-------------|-------------|-----|---------------|-----------:|------------:|
+|-|-|-|-|-|-|-|-|
 | 1 | 10µF Capacitor | C1 | Samsung | CL05A106MQ5NUNC | [LCSC C15525](https://www.lcsc.com/product-detail/C15525.html) | $0.0039 | $0.0039 |
 | 1 | 100nF Capacitor | C2 | Yageo | CC0402KRX7R7BB104 | [LCSC C60474](https://www.lcsc.com/product-detail/C60474.html) | $0.0007 | $0.0007 |
 | 1 | 22µF Capacitor | C4 | Samsung | CL10A226MQ8NRNE | [LCSC C159801](https://www.lcsc.com/product-detail/C159801.html) | $0.0051 | $0.0051 |
@@ -44,3 +44,4 @@ Aura is a smart lamp powered by a ESP32 that wakes up automatically when a perso
 | 1 | 4Ω/8Ω 5W-10W Speaker (30×70×17mm) | - | Generic | LCD Monitor Speaker Horn | [AliExpress](https://www.aliexpress.us/item/3256806864566208.html) | $3.39 | $3.39 |
 | 1 | 2.8" SPI TFT Touch Display (ILI9341, 240×320) | - | Generic | ILI9341 SPI TFT Touch Module | [AliExpress](https://www.aliexpress.us/item/3256806129218488.html) | $6.45 | $6.45 |
 | 1 | WS2812B Addressable RGB LED Strip | - | Generic | WS2812B (5V) | [AliExpress](https://www.aliexpress.us/item/3256807802893080.html) | $4.85 | $4.85 |
+| TOTAL | 49 Components |  |  |  |  |  | $26.57 |
