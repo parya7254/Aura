@@ -29,6 +29,16 @@ Aura is a smart lamp powered by a ESP32 that wakes up automatically when a perso
 9. Use the USB port on the back to upload the code to the ESP32 using Espressif's ESP-NOW tool.
 10. Enjoy your smart lamp!
 
+## How to flash!
+
+- plug your board using a usb-c cable
+- hold the boot button down, press and release the reset button (whilc holding boot), then release boot!
+- in arduino -> tools -> board -> esp32 -> esp32s3 dev module
+- from usb-mode, select Hardware CDC and JTAG
+- then enable usb cdc on boot
+- click upload code (Arduino)
+
+
 # BOM
 | Qty | Description | Designators | Manufacturer | MPN | Supplier Link | Unit Price | Total Price |
 |-|-|-|-|-|-|-|-|
