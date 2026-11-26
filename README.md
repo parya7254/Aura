@@ -44,4 +44,6 @@ Aura is a smart lamp powered by a ESP32 that wakes up automatically when a perso
 | 1 | 4Ω/8Ω 5W-10W Speaker (30×70×17mm) | - | Generic | LCD Monitor Speaker Horn | [AliExpress](https://www.aliexpress.us/item/3256806864566208.html) | $3.39 | $3.39 |
 | 1 | 2.8" SPI TFT Touch Display (ILI9341, 240×320) | - | Generic | ILI9341 SPI TFT Touch Module | [AliExpress](https://www.aliexpress.us/item/3256806129218488.html) | $6.45 | $6.45 |
 | 1 | WS2812B Addressable RGB LED Strip | - | Generic | WS2812B (5V) | [AliExpress](https://www.aliexpress.us/item/3256807802893080.html) | $4.85 | $4.85 |
-| TOTAL | 49 Components |  |  |  |  |  | $26.57 |
+| 1 | PCB | - | JLCPCB | https://jlcpcb.con | $5.68 | $5.68 |
+| 1 | CAD | - | Printing Legion | - | $10 | $10 |
+| TOTAL | 49 Components |  |  |  |  |  | $42.25 |
