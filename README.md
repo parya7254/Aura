@@ -57,4 +57,5 @@ Aura is a smart lamp powered by a ESP32 that wakes up automatically when a perso
 | 1 | WS2812B Addressable RGB LED Strip | - | Generic | WS2812B (5V) | [AliExpress](https://www.aliexpress.us/item/3256807802893080.html) | $4.85 | $4.85 |
 | 1 | PCB | - | JLCPCB | https://jlcpcb.con | $5.68 | $5.68 |
 | 1 | CAD | - | Printing Legion | - | $10 | $10 |
-| TOTAL | 49 Components |  |  |  |  |  | $42.25 |
+| 1 Set | Screws | - | - | [AliExpress](https://www.aliexpress.us/item/2255799870438450.html) | $2.90 | $2.90 |
+| TOTAL | |  |  |  |  |  | $38.30 |
