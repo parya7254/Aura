@@ -17,8 +17,19 @@ Aura is a smart lamp powered by a ESP32 that wakes up automatically when a perso
 |Amplifier:|MAX98537A Class-D DAC|
 |Atmospheric Sensor:|BME280 Temperarture, Humidity, and Pressure Sensor|
 
-# BOM
+# Assembly Instructions + Getting Started:
+1. In the base, place the speaker at the bottom, where there is a downwards bump, and then place the PCB in the raised platform.
+2. Solder the speaker wires to the pads on the PCB. Now, put the base to the side.
+3. Now, get the stem and also the TFT display, put the stem to the side and then connect Dupont jumper wires to the TFT.
+4. Get the stem and then feed the jumper wires downwards and then secure the display to the stem using 4 M3 Screws.
+5. Get the radar module and then connect jumper wires to it. Feed them through the hole in the top part of the case and then glue the radar when it is flush with the hole.
+6. Feed the jumper wires through the stem to the base. Also feed the jumper wires from the stem to the base and then connect them to the PCB to their corresponding pins.
+7. Get the ARGB strip and stick it to the chamfered angled surface of the top part before feeding the wire to the hole on the left-hand side and then feeding that wire down and connecting it to the PCB.
+8. Glue the top part to the stem and then use M2 screws to secure the stem to the base using the holes in the 4 corners.
+9. Use the USB port on the back to upload the code to the ESP32 using Espressif's ESP-NOW tool.
+10. Enjoy your smart lamp!
 
+# BOM
 | Qty | Description | Designators | Manufacturer | MPN | Supplier Link | Unit Price | Total Price |
 |-|-|-|-|-|-|-|-|
 | 1 | 10µF Capacitor | C1 | Samsung | CL05A106MQ5NUNC | [LCSC C15525](https://www.lcsc.com/product-detail/C15525.html) | $0.0039 | $0.0039 |
